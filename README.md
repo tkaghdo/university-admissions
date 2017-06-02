@@ -36,4 +36,5 @@ False Positives is **15**
 False Negatives is **213**
 
 The proportion of applicants that were correctly admitted (Sensitivity) is **0.127049180328**. It looks like the model is not good at predicting admissions
+
 The proportion of applicants that were correctly rejected (specificity) is **0.9625**. The model is good at predicting rejections
